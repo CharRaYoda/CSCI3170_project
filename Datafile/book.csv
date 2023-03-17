@@ -1,0 +1,16 @@
+ISBN,Title,Authors,Price,Inventory Quantity
+0-306-40615-2,The Art of Computer Programming,Donald E. Knuth,40,0
+1-891830-85-0,Refactoring: Improving the Design of Existing Code,Martin Fowler,50,0
+0-321-14653-0,The C Programming Language,Brian W. Kernighan,30,6
+0-596-00873-2,Programming Perl,"Larry Wall, Tom Christiansen, Jon Orwant",45,4
+0-201-61586-9,The Elements of Style,"William Strunk Jr., E.B. White",10,8
+0-596-52717-8,Learning Python,Mark Lutz,35,3
+0-321-78184-7,Effective Java,Joshua Bloch,55,2
+0-7356-2052-9,Code Complete,Steve McConnell,60,7
+0-13-235088-2,Clean Code,Robert C. Martin,45,0
+0-471-11709-9,The Design of Everyday Things,Don Norman,25,10
+0-596-10046-9,Learning SQL,Alan Beaulieu,40,2
+0-201-92488-8,Design Patterns,"Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",50,0
+0-13-110362-8,Agile Software Development,Alistair Cockburn,35,1
+0-596-00572-4,Head First Design Patterns,"Eric Freeman, Elisabeth Robson",45,0
+0-13-235088-2,Clean Architecture,Robert C. Martin,55,2
