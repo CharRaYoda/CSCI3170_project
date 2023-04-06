@@ -10,4 +10,4 @@ Compilation
 
 Execute the System
 
-`java -cp mysql-connector-java-5.1.30-bin.jar:. CSCI3170_Project/src/JDBC/JDBC.java `
+`$ java -cp mysql-connector-java-5.1.30-bin.jar:. CSCI3170_Project/src/JDBC/JDBC.java `
