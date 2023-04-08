@@ -16,6 +16,12 @@ Example Data Files can be found from
 
 `CSCI3170_project/CSCI3170_Project/bin/connection/`
 
+Prevention of errors (cannot compile)
+
+`cd [your path where the file is extracted to]`
+
+
+
 
 ***PS : Remember to create a schema beforehand***
 
